@@ -1,0 +1,19 @@
+{
+  "name": "noble-typing",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "description": "Type definitions for noble.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytonkucera/noble-typings.git"
+  },
+  "author": "Clayton Kucera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claytonkucera/noble-typings/issues"
+  },
+  "homepage": "https://github.com/claytonkucera/noble-typings#readme"
+}
